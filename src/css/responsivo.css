@@ -1,0 +1,27 @@
+@media (max-width: 768px){
+    img{
+        width: 340px;
+        height: 320px;
+    }
+    #container-botoes{
+        width: 80%;
+    }
+}
+@media(max-width: 425px){
+    img{
+        width: 300px;
+        height: 280px;
+    }
+    #musica{
+        font-size: 1.5rem;
+    }
+    #nome-cantor{
+        font-size: 1.2rem;
+    }
+    .footer{
+        width: 300px;
+    }
+    .time span{
+        font-size: 15px;
+    }
+}
